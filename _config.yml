@@ -6,6 +6,3 @@ collections:
   recipes:
     output: true
     permalink: /:name/
-
-eclude:
-  - hennett-family-cookbook/
