@@ -3,6 +3,6 @@ theme: minima
 baseurl: "/recipes"
 
 collections:
- recipes:
- output: true
- permalink: /:name/
+  recipes:
+    output: true
+    permalink: /:name/
