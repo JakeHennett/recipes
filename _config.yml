@@ -1,0 +1,7 @@
+title: Jake’s Recipes
+theme: minima
+
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:name/
