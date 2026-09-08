@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: ""
+image: /assets/images/.jpg
 description: ""
 tags: []
 servings: ""

@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Pancakes"
+image: /assets/images/pancake-presents.jpg
 description: ""
 tags: ["breakfast"]
 servings: ""
