@@ -2,6 +2,7 @@
 
 Here’s a clean, **copy‑paste‑ready summary** you can drop straight into your repo’s README — something you can paste into a new chat later and I’ll immediately know how to continue the setup. It includes **all critical details**, no fluff, and is structured so you can pick up the project at any point.
 
+
 ---
 
 # 📚 Jekyll Recipe Collection — Project Summary
