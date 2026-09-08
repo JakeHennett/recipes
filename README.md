@@ -33,6 +33,7 @@ Known cleanup items are listed under [Outstanding items](#outstanding-items).
 - Determine if pages can be easily exported to a physically printable format.
 - Create a _books folder where referenced cookbooks can have their metadata stored.
 - Hide template recipe file from view.
+- Conditional logic to render source links as hyperlinks. Careful not to break book titles and ISBN.
 
 ---
 
