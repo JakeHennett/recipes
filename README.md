@@ -31,6 +31,7 @@ Known cleanup items are listed under [Outstanding items](#outstanding-items).
 - Find a way to bulk import from old Obsidian vault (https://github.com/JakeHennett/obsidian-vault-public).
 - Set up Obsidian on this repo such that recipes can be edited locally and synced.
 - Determine if pages can be easily exported to a physically printable format.
+- Create a _books folder where referenced cookbooks can have their metadata stored.
 
 ---
 
