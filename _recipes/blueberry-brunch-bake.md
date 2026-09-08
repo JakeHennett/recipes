@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Blueberry Brunch Bake"
+image: /assets/images/recipes/blueberry-brunch-bake.jpg
 tags: ["breakfast"]
 servings: 6-8
 time:
