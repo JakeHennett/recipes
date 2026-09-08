@@ -1,7 +1,8 @@
 title: Jake’s Recipes
 theme: minima
+baseurl: "/recipes"
 
 collections:
-  recipes:
-    output: true
-    permalink: /recipes/:name/
+ recipes:
+ output: true
+ permalink: /:name/
