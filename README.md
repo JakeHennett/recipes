@@ -28,10 +28,9 @@ Known cleanup items are listed under [Outstanding items](#outstanding-items).
 - Add source field to template and display on pages.
 - Tie source to ISBN and book title if possible.
 - Give an option to select tags and only display recipes with that tag.
-- Find a way to bulk import from old Obsidian vault.
+- Find a way to bulk import from old Obsidian vault (https://github.com/JakeHennett/obsidian-vault-public).
 - Set up Obsidian on this repo such that recipes can be edited locally and synced.
 - Determine if pages can be easily exported to a physically printable format.
-- Add images to pages. Maybe base64 encoded so they can be included in the same file.
 
 ---
 
