@@ -37,6 +37,29 @@ Known cleanup items are listed under [Outstanding items](#outstanding-items).
 
 ---
 
+## Recipe links to copy:
+https://www.thepioneerwoman.com/food-cooking/recipes/a60687550/dill-pickle-pizza-recipe/
+https://www.thepioneerwoman.com/food-cooking/recipes/a10327/friday-night-dinner-pasta-alla-vodka/
+https://www.thepioneerwoman.com/food-cooking/recipes/a62805820/buffalo-mac-and-cheese-recipe/
+https://www.thepioneerwoman.com/food-cooking/recipes/a60928346/broccoli-chicken-casserole-recipe/
+Salsa Verde Beef Quesadillas - https://www.tiktok.com/@hannahkburrow/video/7657764301536611614?_r=1&_t=ZP-98iT7pX4juA
+chicken gnocci soup - https://thecozycook.com/chicken-gnocchi-soup/
+https://www.facebook.com/story.php?story_fbid=8677383665660529&id=100001669455927&post_id=100001669455927_8677383665660529&rdid=Gn4NnSj3MDOxFDgw
+https://www.tiktok.com/t/ZPRKg3K6h/
+https://www.the-girl-who-ate-everything.com/easy-peach-cobbler/
+https://gigglesgobblesandgulps.com/nashville-hot-cauliflower/
+https://www.foodfanatic.com/recipes/bean-and-cheese-taquitos-recipe/
+https://food.theffeed.com/2022/09/17/creamy-kale-gnocchi-bake/
+https://styleblueprint.com/memphis/everyday/perfect-vegetable-recipe-mexican-food/
+https://fletchers.com/recipe/creamy-pesto-pasta-peas-bacon/
+https://www.tiktok.com/t/ZPREbDAWK/
+Picadillo
+https://www.tiktok.com/t/ZPRKeGgPn/
+https://www.tiktok.com/t/ZPREbM3P2/
+https://www.tiktok.com/t/ZPREbrVBC/
+
+---
+
 ## Repository structure
 
 ```
