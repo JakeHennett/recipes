@@ -1,5 +1,6 @@
 title: Jake’s Recipes
 theme: minima
+baseurl: "/recipes"
 
 collections:
   recipes:
