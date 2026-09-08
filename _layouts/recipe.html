@@ -10,6 +10,7 @@ layout: default
   {% endif %}
 
   <div class="meta">
+    {% if page.source %}<p><strong>Source:</strong> {{ page.source }}</p>{% endif %}
     {% if page.servings %}<p><strong>Servings:</strong> {{ page.servings }}</p>{% endif %}
     {% if page.time.prep %}<p><strong>Prep:</strong> {{ page.time.prep }}</p>{% endif %}
     {% if page.time.cook %}<p><strong>Cook:</strong> {{ page.time.cook }}</p>{% endif %}
