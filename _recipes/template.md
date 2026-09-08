@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: ""
 description: ""
 tags: []
@@ -15,4 +16,4 @@ rating: ""
 ---
 
 ## Notes
-(Optional freeform notes, tips, variations, substitutions, photos, etc.)
+(Optional freeform notes, tips, variations, substitutions, photos.)
