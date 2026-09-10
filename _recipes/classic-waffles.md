@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Waffles"
+title: "Classic Waffles"
 image: /assets/images/classic-waffles.jpg
 description: ""
 tags: []

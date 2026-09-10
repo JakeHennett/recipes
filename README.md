@@ -25,6 +25,7 @@ Known cleanup items are listed under [Outstanding items](#outstanding-items).
 
 - Update formatting to match Google Drive recipe cards
 - Add search bar, make search bar visible across all pages.
+- Rework image logic to dynamically look for filename.jpg rather than manually copying. do not display if that image file does not exist.
 - Add source field to template and display on pages.
 - Tie source to ISBN and book title if possible.
 - Give an option to select tags and only display recipes with that tag.
