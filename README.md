@@ -39,6 +39,7 @@ Known cleanup items are listed under [Outstanding items](#outstanding-items).
 ---
 
 ## Recipe links to copy:
+https://www.spendwithpennies.com/sweet-potato-casserole/#wprm-recipe-container-136796
 https://www.thepioneerwoman.com/food-cooking/recipes/a60687550/dill-pickle-pizza-recipe/
 https://www.thepioneerwoman.com/food-cooking/recipes/a10327/friday-night-dinner-pasta-alla-vodka/
 https://www.thepioneerwoman.com/food-cooking/recipes/a62805820/buffalo-mac-and-cheese-recipe/
