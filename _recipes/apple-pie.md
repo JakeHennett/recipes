@@ -27,6 +27,3 @@ steps:
 source: "https://natashaskitchen.com/apple-pie-recipe/"
 rating: ""
 ---
-
-## Notes
-(Optional freeform notes, tips, variations, substitutions, photos.)
