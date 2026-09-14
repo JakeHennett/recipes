@@ -30,12 +30,3 @@ rating: ""
 
 ## Notes
 (Optional freeform notes, tips, variations, substitutions, photos.)
-Notes
-*Place a sheet of foil on the rack below the apple pie to catch any potential drips from the pie. 
-*Apple Varieites: Granny Smith Apples are the best apples for apple pie, but you can also use any sweet/tart crisp apple, like Golden Delicious, Honeycrisp, or Pink Lady, or a mix of apples.
-Storage Tips:
-Store at Room Temp: Cool completely to room temperature before covering and storing. The pie keeps well covered on the counter for up to 2 days.
-To Refrigerate: Cover and refrigerate for up to 4 days.
-Freezing Pie: store in a freezer-friendly airtight container for up to 3 months. Here’s a tutorial on how to freeze and bake a frozen pie.
-To Reheat: thaw baked pie in the fridge or on the counter and then reheat in a 350°F oven until warmed through.
-
