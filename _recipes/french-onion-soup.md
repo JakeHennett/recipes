@@ -22,7 +22,7 @@ steps:
   - "Pour in the beef stock and wine."
   - "Cover and cook on Low for 7-8 hours. Remove the thyme sprigs and bay leaf."
   - "Serve each serving of soup in an oven-safe bowl and cover the soup with a slice of bread topped with cheese. Place it in the oven under the broiler for a few minutes, or until the cheese starts to bubble."
-source: "Fix-It and Forget-It Slow Cooker Comfort Foods by Hope Comerford"
+source: "Fix-It and Forget-It Slow Cooker Comfort Foods by Hope Comerford, p. 101"
 rating: ""
 ---
 
