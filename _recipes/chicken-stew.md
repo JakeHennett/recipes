@@ -9,14 +9,12 @@ time:
   prep: ""
   cook: ""
 ingredients:
-  - ""
   - "2 pouches (~3 lbs) boneless chicken breast"
   - "5 medium/large potatoes"
   - "2 cans whole kernel corn"
   - "4 tbsp butter"
   - "2 large can evaporated milk"
 steps:
-  - ""
   - "Fill the bottom of a dutch oven or large pot with ~2 inches of water. Cover and heat on medium high."
   - "Trim chicken breast and add to the pot whole."
   - "Peel (if preferred) and dice potatoes. Do not soak, add directly to the pot."
