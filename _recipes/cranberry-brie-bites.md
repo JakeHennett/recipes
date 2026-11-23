@@ -14,7 +14,7 @@ ingredients:
   - "1 wheel of Brie"
   - "1/2 cup whole berry cranberry sauce"
   - "1/4 cup finely chopped roasted, unsalted pecans"
-  - "6 rosemary sprigs, cut into 1" pieces."
+  - "6 rosemary sprigs, cut into 1 inch pieces."
 steps:
   - "Arrange a rack in center of oven; preheat to 375°. Grease a mini (24-cup) muffin tin with cooking spray. On a lightly floured surface, roll out crescent dough and pinch together seams. Cut into 24 squares. Press squares into prepared cups."
   - "Cut Brie into small pieces and place inside dough. Top with a spoonful of cranberry sauce, pecans, and one piece of rosemary."
